@@ -103,6 +103,15 @@ Then authorize the connection when Cursor prompts you.
 | `reply_to_comment` | Reply to a comment on Instagram media |
 | `toggle_media_comments` | Enable or disable comments on Instagram media |
 
+## Control What Your AI Can Do
+
+You decide what AI agents can do with each connected account:
+
+- **Turn individual actions on or off** for every connected account, so agents only see the actions you allow.
+- **Connect as Read-only or Read & Write.** A read-only connection can only enable read actions.
+- **Destructive actions stay off by default.** Actions such as deletes are disabled until an admin enables them.
+- **Team access per account.** Restricted team members only use the accounts they are granted, with the read actions enabled on them.
+
 ## Usage Examples
 
 ### Profile Performance
@@ -178,6 +187,12 @@ Then authorize the connection when Cursor prompts you.
 - **OAuth 2.0** - Secure authentication
 - **Granular permissions** - Control read vs write access
 - **Business/Creator only** - Personal accounts not supported
+
+## Ready-Made Skills and Prompts
+
+- [Instagram Account Performance Overview](https://insightfulpipe.com/marketing-prompts-library/instagram-instagram-account-performance-overview)
+- [Instagram Content Performance Analysis](https://insightfulpipe.com/marketing-prompts-library/instagram-instagram-content-performance-analysis)
+- [Instagram Reels Strategy Report](https://insightfulpipe.com/marketing-prompts-library/instagram-instagram-reels-strategy-report)
 
 ## Explore More MCP Servers by Insightful Pipe
 
